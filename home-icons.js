@@ -172,7 +172,7 @@ function showTechInfo(e){
     case "make":
         techName.textContent = "Make"
         techDescription.textContent = "For integrations and automations."
-        techImage.src = "https://uploads-ssl.webflow.com/6359366be98d64842004c4dd/63693f3582ea4c0522d039a0_make.png
+        techImage.src = "https://uploads-ssl.webflow.com/6359366be98d64842004c4dd/63693f3582ea4c0522d039a0_make.png"
         break;
   case "notion":
     techName.textContent = "Notion"
