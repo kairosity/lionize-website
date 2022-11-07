@@ -165,12 +165,12 @@ function showTechInfo(e){
 				techName.textContent = "LinkedIn"
 				techDescription.textContent = "We use LinkedIn to connect with businesses, for communication and for expanding our network."
 				techImage.src = "https://uploads-ssl.webflow.com/6359366be98d64842004c4dd/63693ec7445f9b40b0d9c819_linkedin.png"
-				break;
+		/*		break;
 		case "make":
 			techName.textContent = "Make"
 			techDescription.textContent = "For integrations and automations."
 			techImage.src = "https://uploads-ssl.webflow.com/6359366be98d64842004c4dd/63693f3582ea4c0522d039a0_make.png"
-			break;
+			break;*/
 		case "notion":
 			techName.textContent = "Notion"
 			techDescription.textContent = "For organisation, planning and for our custom-design CRM."
